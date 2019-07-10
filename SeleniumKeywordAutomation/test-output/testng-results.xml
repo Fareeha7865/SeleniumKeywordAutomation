@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="15402" started-at="2019-06-27T01:58:33Z" finished-at="2019-06-27T01:58:48Z">
+  <suite name="Suite" duration-ms="21679" started-at="2019-07-10T00:16:05Z" finished-at="2019-07-10T00:16:27Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="15402" started-at="2019-06-27T01:58:33Z" finished-at="2019-06-27T01:58:48Z">
+    <test name="Test" duration-ms="21679" started-at="2019-07-10T00:16:05Z" finished-at="2019-07-10T00:16:27Z">
       <class name="org.isb.training.selenium.Automation">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.isb.training.selenium.Automation@396a51ab]" name="beforeClass" is-config="true" duration-ms="7124" started-at="2019-06-26T21:58:33Z" finished-at="2019-06-26T21:58:40Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.isb.training.selenium.Automation@62ee68d8]" name="beforeClass" is-config="true" duration-ms="15726" started-at="2019-07-09T20:16:05Z" finished-at="2019-07-09T20:16:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="verifySearchButton()[pri:0, instance:org.isb.training.selenium.Automation@396a51ab]" name="verifySearchButton" duration-ms="7015" started-at="2019-06-26T21:58:40Z" finished-at="2019-06-26T21:58:47Z">
+        <test-method status="PASS" signature="verifySearchButton()[pri:0, instance:org.isb.training.selenium.Automation@62ee68d8]" name="verifySearchButton" duration-ms="4377" started-at="2019-07-09T20:16:21Z" finished-at="2019-07-09T20:16:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySearchButton -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.isb.training.selenium.Automation@396a51ab]" name="afterClass" is-config="true" duration-ms="1241" started-at="2019-06-26T21:58:47Z" finished-at="2019-06-26T21:58:48Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.isb.training.selenium.Automation@62ee68d8]" name="afterClass" is-config="true" duration-ms="1559" started-at="2019-07-09T20:16:25Z" finished-at="2019-07-09T20:16:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
