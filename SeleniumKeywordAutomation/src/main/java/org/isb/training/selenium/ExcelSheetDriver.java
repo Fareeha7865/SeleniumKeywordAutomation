@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Hashtable;
 
 import org.apache.log4j.Logger;
-
+//import org.isb.training.selenium.ExcelSheetDriver;
 //import jxl.Cell;
 import jxl.Sheet;
 import jxl.Workbook;
@@ -18,15 +18,15 @@ public class ExcelSheetDriver {
 	
 	Logger logger = Logger.getLogger("ExcelSheetDriver");
 	
-	public Sheet getWorksheet(String WorkbookPath,String sheetname) throws BiffException, IOException
-	{
+	public Sheet getWorksheet(String WorkbookPath,String sheetname) throws BiffException, IOException	{
 		//Initialize
 		
 		workbook = Workbook.getWorkbook(new File(WorkbookPath));
 		worksheet = workbook.getSheet(sheetname);
 	    return worksheet;
 	
-	}public int rowCount()
+	}
+	public int rowCount()
 	{
 		return worksheet.getRows();	
 	}
@@ -42,4 +42,9 @@ public class ExcelSheetDriver {
 		{
 			return sheet.getCell(column,row).getContents();
 		}
+		
+		public void closeworkbook()	{
+			workbook.close();
+		}
+		
 }

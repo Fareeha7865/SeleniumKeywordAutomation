@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46917" started-at="2019-08-02T01:27:37Z" finished-at="2019-08-02T01:28:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46917" started-at="2019-08-02T01:27:37Z" finished-at="2019-08-02T01:28:24Z">
+      <class name="org.isb.training.selenium.LoadTest2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.isb.training.selenium.LoadTest2@531be3c5]" name="beforeClass" is-config="true" duration-ms="4744" started-at="2019-08-01T21:27:37Z" finished-at="2019-08-01T21:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="abc()[pri:0, instance:org.isb.training.selenium.LoadTest2@531be3c5]" name="abc" duration-ms="40874" started-at="2019-08-01T21:27:42Z" finished-at="2019-08-01T21:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.isb.training.selenium.LoadTest2@531be3c5]" name="afterClass" is-config="true" duration-ms="1279" started-at="2019-08-01T21:28:23Z" finished-at="2019-08-01T21:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.isb.training.selenium.LoadTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,1375 @@
+2019-07-10 21:54:45 2019-07-10 21:54:45,594 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-07-10 21:54:45 2019-07-10 21:54:45,594 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-07-10 21:54:45 2019-07-10 21:54:45,594 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-07-10 21:54:45 2019-07-10 21:54:45,626 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-07-10 21:54:45 2019-07-10 21:54:45,626 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-07-10 21:54:45 2019-07-10 21:54:45,626 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-07-10 21:54:45 2019-07-10 21:54:45,626 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-10 21:54:50 2019-07-10 21:54:50,700 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 21:54:50 2019-07-10 21:54:50,700 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-10 21:54:50 2019-07-10 21:54:50,700 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 21:54:50 2019-07-10 21:54:50,700 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-10 21:54:50 2019-07-10 21:54:50,700 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-10 21:54:51 2019-07-10 21:54:51,723 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-10 21:54:51 2019-07-10 21:54:51,724 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 21:54:51 2019-07-10 21:54:51,724 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter correct Username
+2019-07-10 21:54:51 2019-07-10 21:54:51,724 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-10 21:54:51 2019-07-10 21:54:51,724 [main] INFO  org.isb.training.selenium.Automation  - value:Gurdeepsinghiet@gmail.com
+2019-07-10 21:54:51 2019-07-10 21:54:51,724 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 21:54:51 2019-07-10 21:54:51,930 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 21:54:51 2019-07-10 21:54:51,930 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 21:54:51 2019-07-10 21:54:51,930 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 21:54:51 2019-07-10 21:54:51,930 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 21:54:51 2019-07-10 21:54:51,931 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 21:54:51 2019-07-10 21:54:51,931 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 21:54:56 2019-07-10 21:54:56,946 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 21:54:56 2019-07-10 21:54:56,947 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 21:54:56 2019-07-10 21:54:56,947 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-10 21:54:56 2019-07-10 21:54:56,947 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-10 21:54:56 2019-07-10 21:54:56,947 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 21:54:56 2019-07-10 21:54:56,947 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-10 21:54:57 2019-07-10 21:54:57,027 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-10 21:54:57 2019-07-10 21:54:57,027 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 21:54:57 2019-07-10 21:54:57,028 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sllep 
+2019-07-10 21:54:57 2019-07-10 21:54:57,028 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 21:54:57 2019-07-10 21:54:57,028 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 21:54:57 2019-07-10 21:54:57,028 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 21:55:02 2019-07-10 21:55:02,029 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 21:55:02 2019-07-10 21:55:02,029 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 21:55:02 2019-07-10 21:55:02,029 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Password
+2019-07-10 21:55:02 2019-07-10 21:55:02,029 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-10 21:55:02 2019-07-10 21:55:02,029 [main] INFO  org.isb.training.selenium.Automation  - value:#dhm123
+2019-07-10 21:55:02 2019-07-10 21:55:02,029 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 21:55:02 2019-07-10 21:55:02,093 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 21:55:02 2019-07-10 21:55:02,093 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 21:55:02 2019-07-10 21:55:02,093 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 21:55:02 2019-07-10 21:55:02,093 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 21:55:02 2019-07-10 21:55:02,093 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 21:55:02 2019-07-10 21:55:02,093 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 21:55:07 2019-07-10 21:55:07,108 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 21:55:07 2019-07-10 21:55:07,108 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 21:55:07 2019-07-10 21:55:07,108 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-10 21:55:07 2019-07-10 21:55:07,108 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 21:55:07 2019-07-10 21:55:07,108 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 21:55:07 2019-07-10 21:55:07,108 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-10 21:55:09 2019-07-10 21:55:09,500 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-10 21:55:09 2019-07-10 21:55:09,502 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-07-10 21:55:09 2019-07-10 21:55:09,502 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-07-10 21:55:09 2019-07-10 21:55:09,502 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-07-10 21:55:09 2019-07-10 21:55:09,502 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-10 21:55:09 2019-07-10 21:55:09,502 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-07-10 21:55:09 2019-07-10 21:55:09,502 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-07-10 21:55:09 2019-07-10 21:55:09,503 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-07-10 21:55:09 2019-07-10 21:55:09,503 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-10 21:55:12 2019-07-10 21:55:12,792 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 21:55:12 2019-07-10 21:55:12,792 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-10 21:55:12 2019-07-10 21:55:12,792 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 21:55:12 2019-07-10 21:55:12,792 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-10 21:55:12 2019-07-10 21:55:12,794 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-10 21:55:13 2019-07-10 21:55:13,774 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-10 21:55:13 2019-07-10 21:55:13,774 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 21:55:13 2019-07-10 21:55:13,774 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-07-10 21:55:13 2019-07-10 21:55:13,774 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-10 21:55:13 2019-07-10 21:55:13,774 [main] INFO  org.isb.training.selenium.Automation  - value:kkkkkkk
+2019-07-10 21:55:13 2019-07-10 21:55:13,774 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 21:55:13 2019-07-10 21:55:13,906 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 21:55:13 2019-07-10 21:55:13,908 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 21:55:13 2019-07-10 21:55:13,908 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 21:55:13 2019-07-10 21:55:13,908 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 21:55:13 2019-07-10 21:55:13,908 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 21:55:13 2019-07-10 21:55:13,908 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 21:55:18 2019-07-10 21:55:18,919 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 21:55:18 2019-07-10 21:55:18,919 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 21:55:18 2019-07-10 21:55:18,919 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-10 21:55:18 2019-07-10 21:55:18,919 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-10 21:55:18 2019-07-10 21:55:18,919 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 21:55:18 2019-07-10 21:55:18,919 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-10 21:55:18 2019-07-10 21:55:18,999 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-10 21:55:18 2019-07-10 21:55:18,999 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 21:55:18 2019-07-10 21:55:18,999 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 21:55:18 2019-07-10 21:55:18,999 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 21:55:19 2019-07-10 21:55:19,000 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 21:55:19 2019-07-10 21:55:19,000 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 21:55:24 2019-07-10 21:55:24,011 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 21:55:24 2019-07-10 21:55:24,011 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:4
+2019-07-10 21:55:24 2019-07-10 21:55:24,011 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Password
+2019-07-10 21:55:24 2019-07-10 21:55:24,011 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-10 21:55:24 2019-07-10 21:55:24,011 [main] INFO  org.isb.training.selenium.Automation  - value:llllll
+2019-07-10 21:55:24 2019-07-10 21:55:24,011 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 21:55:24 2019-07-10 21:55:24,075 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 21:55:24 2019-07-10 21:55:24,075 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 21:55:24 2019-07-10 21:55:24,075 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 21:55:24 2019-07-10 21:55:24,075 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 21:55:24 2019-07-10 21:55:24,075 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 21:55:24 2019-07-10 21:55:24,075 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 21:55:29 2019-07-10 21:55:29,080 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 21:55:29 2019-07-10 21:55:29,080 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:5
+2019-07-10 21:55:29 2019-07-10 21:55:29,080 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click Sign in Button
+2019-07-10 21:55:29 2019-07-10 21:55:29,080 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-10 21:55:29 2019-07-10 21:55:29,080 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 21:55:29 2019-07-10 21:55:29,080 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-10 21:55:29 2019-07-10 21:55:29,397 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-10 21:55:29 2019-07-10 21:55:29,398 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 21:55:29 2019-07-10 21:55:29,398 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 21:55:29 2019-07-10 21:55:29,398 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 21:55:29 2019-07-10 21:55:29,398 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 21:55:29 2019-07-10 21:55:29,398 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 21:55:34 2019-07-10 21:55:34,398 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 21:55:34 2019-07-10 21:55:34,398 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 21:55:34 2019-07-10 21:55:34,398 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-10 21:55:34 2019-07-10 21:55:34,398 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 21:55:34 2019-07-10 21:55:34,398 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 21:55:34 2019-07-10 21:55:34,398 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-10 21:55:36 2019-07-10 21:55:36,771 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-10 21:55:36 2019-07-10 21:55:36,773 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:2
+2019-07-10 21:55:36 2019-07-10 21:55:36,773 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:UserRegistrationCases
+2019-07-10 21:55:36 2019-07-10 21:55:36,773 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:N
+2019-07-10 22:02:31 2019-07-10 22:02:31,896 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-07-10 22:02:31 2019-07-10 22:02:31,896 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-07-10 22:02:31 2019-07-10 22:02:31,896 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-07-10 22:02:31 2019-07-10 22:02:31,927 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-07-10 22:02:31 2019-07-10 22:02:31,927 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-07-10 22:02:31 2019-07-10 22:02:31,927 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-07-10 22:02:31 2019-07-10 22:02:31,927 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-10 22:02:36 2019-07-10 22:02:36,360 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 22:02:36 2019-07-10 22:02:36,360 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-10 22:02:36 2019-07-10 22:02:36,360 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:02:36 2019-07-10 22:02:36,363 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-10 22:02:36 2019-07-10 22:02:36,364 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-10 22:02:37 2019-07-10 22:02:37,163 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-10 22:02:37 2019-07-10 22:02:37,163 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 22:02:37 2019-07-10 22:02:37,164 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter correct Username
+2019-07-10 22:02:37 2019-07-10 22:02:37,164 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-10 22:02:37 2019-07-10 22:02:37,164 [main] INFO  org.isb.training.selenium.Automation  - value:Gurdeepsinghiet@gmail.com
+2019-07-10 22:02:37 2019-07-10 22:02:37,164 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 22:02:37 2019-07-10 22:02:37,366 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 22:02:37 2019-07-10 22:02:37,366 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:02:37 2019-07-10 22:02:37,366 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:02:37 2019-07-10 22:02:37,366 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:02:37 2019-07-10 22:02:37,366 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:02:37 2019-07-10 22:02:37,366 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:02:42 2019-07-10 22:02:42,369 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:02:42 2019-07-10 22:02:42,369 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:02:42 2019-07-10 22:02:42,369 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-10 22:02:42 2019-07-10 22:02:42,369 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-10 22:02:42 2019-07-10 22:02:42,369 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:02:42 2019-07-10 22:02:42,370 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-10 22:02:42 2019-07-10 22:02:42,450 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-10 22:02:42 2019-07-10 22:02:42,450 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:02:42 2019-07-10 22:02:42,450 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sllep 
+2019-07-10 22:02:42 2019-07-10 22:02:42,451 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:02:42 2019-07-10 22:02:42,451 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:02:42 2019-07-10 22:02:42,451 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:02:47 2019-07-10 22:02:47,454 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:02:47 2019-07-10 22:02:47,454 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 22:02:47 2019-07-10 22:02:47,454 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Password
+2019-07-10 22:02:47 2019-07-10 22:02:47,454 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-10 22:02:47 2019-07-10 22:02:47,454 [main] INFO  org.isb.training.selenium.Automation  - value:#dhm123
+2019-07-10 22:02:47 2019-07-10 22:02:47,454 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 22:02:47 2019-07-10 22:02:47,519 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 22:02:47 2019-07-10 22:02:47,519 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:02:47 2019-07-10 22:02:47,520 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:02:47 2019-07-10 22:02:47,520 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:02:47 2019-07-10 22:02:47,520 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:02:47 2019-07-10 22:02:47,520 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:02:52 2019-07-10 22:02:52,535 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:02:52 2019-07-10 22:02:52,535 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 22:02:52 2019-07-10 22:02:52,535 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-10 22:02:52 2019-07-10 22:02:52,535 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:02:52 2019-07-10 22:02:52,535 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:02:52 2019-07-10 22:02:52,536 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-10 22:02:52 2019-07-10 22:02:52,595 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-10 22:02:52 2019-07-10 22:02:52,596 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-07-10 22:02:52 2019-07-10 22:02:52,596 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-07-10 22:02:52 2019-07-10 22:02:52,596 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-07-10 22:02:52 2019-07-10 22:02:52,596 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-10 22:02:55 2019-07-10 22:02:55,895 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 22:02:55 2019-07-10 22:02:55,895 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-10 22:02:55 2019-07-10 22:02:55,901 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:02:55 2019-07-10 22:02:55,901 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-10 22:02:55 2019-07-10 22:02:55,901 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-10 22:02:56 2019-07-10 22:02:56,729 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-10 22:02:56 2019-07-10 22:02:56,729 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:02:56 2019-07-10 22:02:56,729 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:02:56 2019-07-10 22:02:56,729 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:02:56 2019-07-10 22:02:56,729 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:02:56 2019-07-10 22:02:56,730 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:03:01 2019-07-10 22:03:01,744 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:03:01 2019-07-10 22:03:01,745 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 22:03:01 2019-07-10 22:03:01,745 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Username
+2019-07-10 22:03:01 2019-07-10 22:03:01,745 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-10 22:03:01 2019-07-10 22:03:01,745 [main] INFO  org.isb.training.selenium.Automation  - value:jack25@hotmail.com
+2019-07-10 22:03:01 2019-07-10 22:03:01,745 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 22:03:01 2019-07-10 22:03:01,840 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 22:03:01 2019-07-10 22:03:01,840 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:03:01 2019-07-10 22:03:01,840 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-10 22:03:01 2019-07-10 22:03:01,840 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-10 22:03:01 2019-07-10 22:03:01,840 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:03:01 2019-07-10 22:03:01,840 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-10 22:03:06 2019-07-10 22:03:06,918 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-10 22:03:06 2019-07-10 22:03:06,918 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:03:06 2019-07-10 22:03:06,918 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:03:06 2019-07-10 22:03:06,918 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:03:06 2019-07-10 22:03:06,918 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:03:06 2019-07-10 22:03:06,918 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:03:11 2019-07-10 22:03:11,923 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:03:11 2019-07-10 22:03:11,924 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 22:03:11 2019-07-10 22:03:11,924 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Password
+2019-07-10 22:03:11 2019-07-10 22:03:11,924 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-10 22:03:11 2019-07-10 22:03:11,924 [main] INFO  org.isb.training.selenium.Automation  - value:#dhm123
+2019-07-10 22:03:11 2019-07-10 22:03:11,924 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 22:03:11 2019-07-10 22:03:11,995 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 22:03:11 2019-07-10 22:03:11,995 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:03:11 2019-07-10 22:03:11,995 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:03:11 2019-07-10 22:03:11,995 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:03:11 2019-07-10 22:03:11,995 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:03:11 2019-07-10 22:03:11,995 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:03:17 2019-07-10 22:03:17,000 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:03:17 2019-07-10 22:03:17,000 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 22:03:17 2019-07-10 22:03:17,000 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-10 22:03:17 2019-07-10 22:03:17,000 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:03:17 2019-07-10 22:03:17,000 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:03:17 2019-07-10 22:03:17,000 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-10 22:03:19 2019-07-10 22:03:19,361 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-10 22:03:19 2019-07-10 22:03:19,361 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-07-10 22:03:19 2019-07-10 22:03:19,361 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-07-10 22:03:19 2019-07-10 22:03:19,361 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-07-10 22:03:19 2019-07-10 22:03:19,361 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-10 22:03:22 2019-07-10 22:03:22,894 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 22:03:22 2019-07-10 22:03:22,894 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-10 22:03:22 2019-07-10 22:03:22,894 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:03:22 2019-07-10 22:03:22,894 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-10 22:03:22 2019-07-10 22:03:22,894 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-10 22:03:23 2019-07-10 22:03:23,705 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-10 22:03:23 2019-07-10 22:03:23,705 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:03:23 2019-07-10 22:03:23,705 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-07-10 22:03:23 2019-07-10 22:03:23,705 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-10 22:03:23 2019-07-10 22:03:23,705 [main] INFO  org.isb.training.selenium.Automation  - value:kkkkkkk
+2019-07-10 22:03:23 2019-07-10 22:03:23,705 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 22:03:23 2019-07-10 22:03:23,819 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 22:03:23 2019-07-10 22:03:23,820 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:03:23 2019-07-10 22:03:23,820 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:03:23 2019-07-10 22:03:23,820 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:03:23 2019-07-10 22:03:23,820 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:03:23 2019-07-10 22:03:23,820 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:03:28 2019-07-10 22:03:28,835 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:03:28 2019-07-10 22:03:28,835 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 22:03:28 2019-07-10 22:03:28,835 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-10 22:03:28 2019-07-10 22:03:28,835 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-10 22:03:28 2019-07-10 22:03:28,835 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:03:28 2019-07-10 22:03:28,835 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-10 22:03:28 2019-07-10 22:03:28,909 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-10 22:03:28 2019-07-10 22:03:28,909 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:03:28 2019-07-10 22:03:28,909 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:03:28 2019-07-10 22:03:28,909 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:03:28 2019-07-10 22:03:28,910 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:03:28 2019-07-10 22:03:28,910 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:03:33 2019-07-10 22:03:33,920 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:03:33 2019-07-10 22:03:33,920 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:4
+2019-07-10 22:03:33 2019-07-10 22:03:33,921 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Password
+2019-07-10 22:03:33 2019-07-10 22:03:33,921 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-10 22:03:33 2019-07-10 22:03:33,921 [main] INFO  org.isb.training.selenium.Automation  - value:llllll
+2019-07-10 22:03:33 2019-07-10 22:03:33,921 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 22:03:33 2019-07-10 22:03:33,997 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 22:03:33 2019-07-10 22:03:33,997 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:03:33 2019-07-10 22:03:33,997 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:03:33 2019-07-10 22:03:33,997 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:03:33 2019-07-10 22:03:33,997 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:03:33 2019-07-10 22:03:33,997 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:03:38 2019-07-10 22:03:38,997 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:03:38 2019-07-10 22:03:38,998 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:5
+2019-07-10 22:03:38 2019-07-10 22:03:38,998 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click Sign in Button
+2019-07-10 22:03:38 2019-07-10 22:03:38,998 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-10 22:03:38 2019-07-10 22:03:38,998 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:03:38 2019-07-10 22:03:38,998 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-10 22:03:44 2019-07-10 22:03:44,255 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-10 22:03:44 2019-07-10 22:03:44,255 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:03:44 2019-07-10 22:03:44,255 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:03:44 2019-07-10 22:03:44,255 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:03:44 2019-07-10 22:03:44,255 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:03:44 2019-07-10 22:03:44,255 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:03:49 2019-07-10 22:03:49,259 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:03:49 2019-07-10 22:03:49,259 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 22:03:49 2019-07-10 22:03:49,259 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-10 22:03:49 2019-07-10 22:03:49,259 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:03:49 2019-07-10 22:03:49,259 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:03:49 2019-07-10 22:03:49,259 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-10 22:03:49 2019-07-10 22:03:49,304 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-10 22:25:08 2019-07-10 22:25:08,948 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-07-10 22:25:08 2019-07-10 22:25:08,964 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-07-10 22:25:08 2019-07-10 22:25:08,964 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-07-10 22:25:08 2019-07-10 22:25:08,995 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-07-10 22:25:08 2019-07-10 22:25:08,995 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-07-10 22:25:08 2019-07-10 22:25:08,995 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-07-10 22:25:09 2019-07-10 22:25:09,011 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-10 22:25:13 2019-07-10 22:25:13,757 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 22:25:13 2019-07-10 22:25:13,757 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-10 22:25:13 2019-07-10 22:25:13,758 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:25:13 2019-07-10 22:25:13,758 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-10 22:25:13 2019-07-10 22:25:13,758 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-10 22:25:14 2019-07-10 22:25:14,571 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-10 22:25:14 2019-07-10 22:25:14,572 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 22:25:14 2019-07-10 22:25:14,572 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter correct Username
+2019-07-10 22:25:14 2019-07-10 22:25:14,572 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-10 22:25:14 2019-07-10 22:25:14,572 [main] INFO  org.isb.training.selenium.Automation  - value:Gurdeepsinghiet@gmail.com
+2019-07-10 22:25:14 2019-07-10 22:25:14,572 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 22:25:14 2019-07-10 22:25:14,762 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 22:25:14 2019-07-10 22:25:14,762 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:25:14 2019-07-10 22:25:14,762 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:25:14 2019-07-10 22:25:14,763 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:25:14 2019-07-10 22:25:14,763 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:25:14 2019-07-10 22:25:14,763 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:25:19 2019-07-10 22:25:19,773 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:25:19 2019-07-10 22:25:19,773 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:25:19 2019-07-10 22:25:19,773 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-10 22:25:19 2019-07-10 22:25:19,773 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-10 22:25:19 2019-07-10 22:25:19,773 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:25:19 2019-07-10 22:25:19,773 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-10 22:25:24 2019-07-10 22:25:24,859 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-10 22:25:24 2019-07-10 22:25:24,859 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:25:24 2019-07-10 22:25:24,859 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sllep 
+2019-07-10 22:25:24 2019-07-10 22:25:24,859 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:25:24 2019-07-10 22:25:24,859 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:25:24 2019-07-10 22:25:24,859 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:25:29 2019-07-10 22:25:29,861 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:25:29 2019-07-10 22:25:29,862 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 22:25:29 2019-07-10 22:25:29,862 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Password
+2019-07-10 22:25:29 2019-07-10 22:25:29,862 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-10 22:25:29 2019-07-10 22:25:29,862 [main] INFO  org.isb.training.selenium.Automation  - value:#dhm123
+2019-07-10 22:25:29 2019-07-10 22:25:29,862 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 22:25:29 2019-07-10 22:25:29,919 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 22:25:29 2019-07-10 22:25:29,919 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:25:29 2019-07-10 22:25:29,919 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:25:29 2019-07-10 22:25:29,919 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:25:29 2019-07-10 22:25:29,919 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:25:29 2019-07-10 22:25:29,919 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:25:34 2019-07-10 22:25:34,924 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:25:34 2019-07-10 22:25:34,925 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 22:25:34 2019-07-10 22:25:34,925 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-10 22:25:34 2019-07-10 22:25:34,925 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:25:34 2019-07-10 22:25:34,925 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:25:34 2019-07-10 22:25:34,925 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-10 22:25:37 2019-07-10 22:25:37,301 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-10 22:25:37 2019-07-10 22:25:37,303 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-07-10 22:25:37 2019-07-10 22:25:37,303 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-07-10 22:25:37 2019-07-10 22:25:37,303 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-07-10 22:25:37 2019-07-10 22:25:37,303 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-10 22:25:40 2019-07-10 22:25:40,556 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 22:25:40 2019-07-10 22:25:40,556 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-10 22:25:40 2019-07-10 22:25:40,556 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:25:40 2019-07-10 22:25:40,558 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-10 22:25:40 2019-07-10 22:25:40,558 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-10 22:25:41 2019-07-10 22:25:41,510 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-10 22:25:41 2019-07-10 22:25:41,511 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:25:41 2019-07-10 22:25:41,511 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:25:41 2019-07-10 22:25:41,511 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:25:41 2019-07-10 22:25:41,511 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:25:41 2019-07-10 22:25:41,511 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:25:46 2019-07-10 22:25:46,512 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:25:46 2019-07-10 22:25:46,513 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 22:25:46 2019-07-10 22:25:46,513 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Username
+2019-07-10 22:25:46 2019-07-10 22:25:46,513 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-10 22:25:46 2019-07-10 22:25:46,513 [main] INFO  org.isb.training.selenium.Automation  - value:jack25@hotmail.com
+2019-07-10 22:25:46 2019-07-10 22:25:46,513 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 22:25:46 2019-07-10 22:25:46,605 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 22:25:46 2019-07-10 22:25:46,605 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:25:46 2019-07-10 22:25:46,605 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-10 22:25:46 2019-07-10 22:25:46,605 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-10 22:25:46 2019-07-10 22:25:46,605 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:25:46 2019-07-10 22:25:46,605 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-10 22:25:51 2019-07-10 22:25:51,683 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-10 22:25:51 2019-07-10 22:25:51,683 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:25:51 2019-07-10 22:25:51,683 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:25:51 2019-07-10 22:25:51,683 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:25:51 2019-07-10 22:25:51,683 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:25:51 2019-07-10 22:25:51,683 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:25:56 2019-07-10 22:25:56,686 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:25:56 2019-07-10 22:25:56,686 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 22:25:56 2019-07-10 22:25:56,686 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Password
+2019-07-10 22:25:56 2019-07-10 22:25:56,686 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-10 22:25:56 2019-07-10 22:25:56,686 [main] INFO  org.isb.training.selenium.Automation  - value:#dhm123
+2019-07-10 22:25:56 2019-07-10 22:25:56,686 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 22:25:56 2019-07-10 22:25:56,758 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 22:25:56 2019-07-10 22:25:56,759 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:25:56 2019-07-10 22:25:56,759 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:25:56 2019-07-10 22:25:56,759 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:25:56 2019-07-10 22:25:56,759 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:25:56 2019-07-10 22:25:56,759 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:26:01 2019-07-10 22:26:01,763 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:26:01 2019-07-10 22:26:01,763 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 22:26:01 2019-07-10 22:26:01,763 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-10 22:26:01 2019-07-10 22:26:01,763 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:26:01 2019-07-10 22:26:01,763 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:26:01 2019-07-10 22:26:01,763 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-10 22:26:04 2019-07-10 22:26:04,145 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-10 22:26:04 2019-07-10 22:26:04,147 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-07-10 22:26:04 2019-07-10 22:26:04,147 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-07-10 22:26:04 2019-07-10 22:26:04,147 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-07-10 22:26:04 2019-07-10 22:26:04,147 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-10 22:26:07 2019-07-10 22:26:07,344 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-10 22:26:07 2019-07-10 22:26:07,345 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-10 22:26:07 2019-07-10 22:26:07,346 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:26:07 2019-07-10 22:26:07,346 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-10 22:26:07 2019-07-10 22:26:07,347 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-10 22:26:08 2019-07-10 22:26:08,724 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-10 22:26:08 2019-07-10 22:26:08,724 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:26:08 2019-07-10 22:26:08,724 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-07-10 22:26:08 2019-07-10 22:26:08,724 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-10 22:26:08 2019-07-10 22:26:08,724 [main] INFO  org.isb.training.selenium.Automation  - value:kkkkkkk
+2019-07-10 22:26:08 2019-07-10 22:26:08,725 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 22:26:08 2019-07-10 22:26:08,844 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 22:26:08 2019-07-10 22:26:08,844 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:26:08 2019-07-10 22:26:08,844 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:26:08 2019-07-10 22:26:08,844 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:26:08 2019-07-10 22:26:08,844 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:26:08 2019-07-10 22:26:08,844 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:26:13 2019-07-10 22:26:13,846 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:26:13 2019-07-10 22:26:13,847 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 22:26:13 2019-07-10 22:26:13,847 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-10 22:26:13 2019-07-10 22:26:13,847 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-10 22:26:13 2019-07-10 22:26:13,847 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:26:13 2019-07-10 22:26:13,847 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-10 22:26:18 2019-07-10 22:26:18,908 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-10 22:26:18 2019-07-10 22:26:18,909 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:26:18 2019-07-10 22:26:18,909 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:26:18 2019-07-10 22:26:18,909 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:26:18 2019-07-10 22:26:18,909 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:26:18 2019-07-10 22:26:18,909 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:26:23 2019-07-10 22:26:23,922 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:26:23 2019-07-10 22:26:23,922 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:4
+2019-07-10 22:26:23 2019-07-10 22:26:23,922 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Password
+2019-07-10 22:26:23 2019-07-10 22:26:23,922 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-10 22:26:23 2019-07-10 22:26:23,922 [main] INFO  org.isb.training.selenium.Automation  - value:llllll
+2019-07-10 22:26:23 2019-07-10 22:26:23,922 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-10 22:26:23 2019-07-10 22:26:23,982 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-10 22:26:23 2019-07-10 22:26:23,983 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:26:23 2019-07-10 22:26:23,983 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:26:23 2019-07-10 22:26:23,983 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:26:23 2019-07-10 22:26:23,983 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:26:23 2019-07-10 22:26:23,983 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:26:28 2019-07-10 22:26:28,988 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:26:28 2019-07-10 22:26:28,988 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:5
+2019-07-10 22:26:28 2019-07-10 22:26:28,988 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click Sign in Button
+2019-07-10 22:26:28 2019-07-10 22:26:28,988 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-10 22:26:28 2019-07-10 22:26:28,988 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:26:28 2019-07-10 22:26:28,988 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-10 22:26:34 2019-07-10 22:26:34,061 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-10 22:26:34 2019-07-10 22:26:34,061 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-10 22:26:34 2019-07-10 22:26:34,062 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-10 22:26:34 2019-07-10 22:26:34,062 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:26:34 2019-07-10 22:26:34,062 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-10 22:26:34 2019-07-10 22:26:34,062 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-10 22:26:39 2019-07-10 22:26:39,077 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-10 22:26:39 2019-07-10 22:26:39,077 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-10 22:26:39 2019-07-10 22:26:39,077 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-10 22:26:39 2019-07-10 22:26:39,077 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-10 22:26:39 2019-07-10 22:26:39,077 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-10 22:26:39 2019-07-10 22:26:39,077 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-10 22:26:41 2019-07-10 22:26:41,405 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-16 19:49:24 2019-07-16 19:49:24,582 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-07-16 19:49:24 2019-07-16 19:49:24,599 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-07-16 19:49:24 2019-07-16 19:49:24,600 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-07-16 19:49:24 2019-07-16 19:49:24,637 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-07-16 19:49:24 2019-07-16 19:49:24,639 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-07-16 19:49:24 2019-07-16 19:49:24,639 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-07-16 19:49:24 2019-07-16 19:49:24,639 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-16 19:49:33 2019-07-16 19:49:33,793 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 19:49:33 2019-07-16 19:49:33,795 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-16 19:49:33 2019-07-16 19:49:33,797 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:49:33 2019-07-16 19:49:33,797 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-16 19:49:33 2019-07-16 19:49:33,798 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-16 19:49:33 2019-07-16 19:49:33,798 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} url https://login.live.com 
+2019-07-16 19:49:35 2019-07-16 19:49:35,826 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-16 19:49:35 2019-07-16 19:49:35,826 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 19:49:35 2019-07-16 19:49:35,826 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter correct Username
+2019-07-16 19:49:35 2019-07-16 19:49:35,827 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-16 19:49:35 2019-07-16 19:49:35,827 [main] INFO  org.isb.training.selenium.Automation  - value:Gurdeepsinghiet@gmail.com
+2019-07-16 19:49:35 2019-07-16 19:49:35,827 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 19:49:35 2019-07-16 19:49:35,827 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input Gurdeepsinghiet@gmail.com //input[@id='i0116']
+2019-07-16 19:49:36 2019-07-16 19:49:36,110 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 19:49:36 2019-07-16 19:49:36,111 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:49:36 2019-07-16 19:49:36,111 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 19:49:36 2019-07-16 19:49:36,111 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:49:36 2019-07-16 19:49:36,111 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 19:49:36 2019-07-16 19:49:36,111 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 19:49:36 2019-07-16 19:49:36,112 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 19:49:41 2019-07-16 19:49:41,113 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 19:49:41 2019-07-16 19:49:41,113 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:49:41 2019-07-16 19:49:41,114 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-16 19:49:41 2019-07-16 19:49:41,114 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-16 19:49:41 2019-07-16 19:49:41,114 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 19:49:41 2019-07-16 19:49:41,115 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-16 19:49:41 2019-07-16 19:49:41,115 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} click  //input[@id='idSIButton9']
+2019-07-16 19:49:41 2019-07-16 19:49:41,220 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-16 19:49:41 2019-07-16 19:49:41,221 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:49:41 2019-07-16 19:49:41,221 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sllep 
+2019-07-16 19:49:41 2019-07-16 19:49:41,221 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:49:41 2019-07-16 19:49:41,221 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 19:49:41 2019-07-16 19:49:41,222 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 19:49:41 2019-07-16 19:49:41,222 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 19:49:46 2019-07-16 19:49:46,223 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 19:49:46 2019-07-16 19:49:46,223 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 19:49:46 2019-07-16 19:49:46,223 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Password
+2019-07-16 19:49:46 2019-07-16 19:49:46,223 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-16 19:49:46 2019-07-16 19:49:46,223 [main] INFO  org.isb.training.selenium.Automation  - value:#dhm123
+2019-07-16 19:49:46 2019-07-16 19:49:46,223 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 19:49:46 2019-07-16 19:49:46,223 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input #dhm123 //input[@id='i0118']
+2019-07-16 19:49:46 2019-07-16 19:49:46,316 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 19:49:46 2019-07-16 19:49:46,317 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:49:46 2019-07-16 19:49:46,317 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 19:49:46 2019-07-16 19:49:46,317 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:49:46 2019-07-16 19:49:46,317 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 19:49:46 2019-07-16 19:49:46,317 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 19:49:46 2019-07-16 19:49:46,317 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 19:49:51 2019-07-16 19:49:51,318 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 19:49:51 2019-07-16 19:49:51,318 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 19:49:51 2019-07-16 19:49:51,318 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-16 19:49:51 2019-07-16 19:49:51,318 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:49:51 2019-07-16 19:49:51,318 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 19:49:51 2019-07-16 19:49:51,318 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-16 19:49:51 2019-07-16 19:49:51,318 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} CloseBrowser  
+2019-07-16 19:49:51 2019-07-16 19:49:51,576 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-16 19:49:51 2019-07-16 19:49:51,577 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-07-16 19:49:51 2019-07-16 19:49:51,581 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-07-16 19:49:51 2019-07-16 19:49:51,581 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-07-16 19:49:51 2019-07-16 19:49:51,581 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-16 19:49:55 2019-07-16 19:49:55,262 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 19:49:55 2019-07-16 19:49:55,263 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-16 19:49:55 2019-07-16 19:49:55,264 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:49:55 2019-07-16 19:49:55,264 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-16 19:49:55 2019-07-16 19:49:55,264 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-16 19:49:55 2019-07-16 19:49:55,264 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} url https://login.live.com 
+2019-07-16 19:49:56 2019-07-16 19:49:56,481 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-16 19:49:56 2019-07-16 19:49:56,481 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:49:56 2019-07-16 19:49:56,482 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 19:49:56 2019-07-16 19:49:56,482 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:49:56 2019-07-16 19:49:56,482 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 19:49:56 2019-07-16 19:49:56,482 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 19:49:56 2019-07-16 19:49:56,482 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 19:50:01 2019-07-16 19:50:01,483 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 19:50:01 2019-07-16 19:50:01,483 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 19:50:01 2019-07-16 19:50:01,483 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Username
+2019-07-16 19:50:01 2019-07-16 19:50:01,483 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-16 19:50:01 2019-07-16 19:50:01,483 [main] INFO  org.isb.training.selenium.Automation  - value:jack25@hotmail.com
+2019-07-16 19:50:01 2019-07-16 19:50:01,483 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 19:50:01 2019-07-16 19:50:01,483 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input jack25@hotmail.com //input[@id='i0116']
+2019-07-16 19:50:01 2019-07-16 19:50:01,648 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 19:50:01 2019-07-16 19:50:01,648 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:50:01 2019-07-16 19:50:01,648 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-16 19:50:01 2019-07-16 19:50:01,648 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-16 19:50:01 2019-07-16 19:50:01,648 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 19:50:01 2019-07-16 19:50:01,648 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-16 19:50:01 2019-07-16 19:50:01,648 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} click  //input[@id='idSIButton9']
+2019-07-16 19:50:06 2019-07-16 19:50:06,747 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-16 19:50:06 2019-07-16 19:50:06,748 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:50:06 2019-07-16 19:50:06,748 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 19:50:06 2019-07-16 19:50:06,748 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:50:06 2019-07-16 19:50:06,748 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 19:50:06 2019-07-16 19:50:06,748 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 19:50:06 2019-07-16 19:50:06,748 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 19:50:11 2019-07-16 19:50:11,748 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 19:50:11 2019-07-16 19:50:11,748 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 19:50:11 2019-07-16 19:50:11,748 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Password
+2019-07-16 19:50:11 2019-07-16 19:50:11,748 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-16 19:50:11 2019-07-16 19:50:11,748 [main] INFO  org.isb.training.selenium.Automation  - value:#dhm123
+2019-07-16 19:50:11 2019-07-16 19:50:11,749 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 19:50:11 2019-07-16 19:50:11,749 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input #dhm123 //input[@id='i0118']
+2019-07-16 19:50:11 2019-07-16 19:50:11,825 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 19:50:11 2019-07-16 19:50:11,825 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:50:11 2019-07-16 19:50:11,825 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 19:50:11 2019-07-16 19:50:11,825 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:50:11 2019-07-16 19:50:11,825 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 19:50:11 2019-07-16 19:50:11,825 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 19:50:11 2019-07-16 19:50:11,825 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 19:50:16 2019-07-16 19:50:16,825 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 19:50:16 2019-07-16 19:50:16,825 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 19:50:16 2019-07-16 19:50:16,825 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-16 19:50:16 2019-07-16 19:50:16,825 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:50:16 2019-07-16 19:50:16,825 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 19:50:16 2019-07-16 19:50:16,825 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-16 19:50:16 2019-07-16 19:50:16,825 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} CloseBrowser  
+2019-07-16 19:50:19 2019-07-16 19:50:19,140 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-16 19:50:19 2019-07-16 19:50:19,141 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-07-16 19:50:19 2019-07-16 19:50:19,141 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-07-16 19:50:19 2019-07-16 19:50:19,141 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-07-16 19:50:19 2019-07-16 19:50:19,141 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-16 19:50:22 2019-07-16 19:50:22,756 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 19:50:22 2019-07-16 19:50:22,757 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-16 19:50:22 2019-07-16 19:50:22,757 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:50:22 2019-07-16 19:50:22,757 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-16 19:50:22 2019-07-16 19:50:22,757 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-16 19:50:22 2019-07-16 19:50:22,757 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} url https://login.live.com 
+2019-07-16 19:50:23 2019-07-16 19:50:23,940 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-16 19:50:23 2019-07-16 19:50:23,940 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:50:23 2019-07-16 19:50:23,940 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-07-16 19:50:23 2019-07-16 19:50:23,940 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-16 19:50:23 2019-07-16 19:50:23,940 [main] INFO  org.isb.training.selenium.Automation  - value:kkkkkkk
+2019-07-16 19:50:23 2019-07-16 19:50:23,940 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 19:50:23 2019-07-16 19:50:23,940 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input kkkkkkk //input[@id='i0116']
+2019-07-16 19:50:24 2019-07-16 19:50:24,103 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 19:50:24 2019-07-16 19:50:24,104 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:50:24 2019-07-16 19:50:24,105 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 19:50:24 2019-07-16 19:50:24,105 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:50:24 2019-07-16 19:50:24,105 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 19:50:24 2019-07-16 19:50:24,105 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 19:50:24 2019-07-16 19:50:24,105 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 19:50:29 2019-07-16 19:50:29,106 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 19:50:29 2019-07-16 19:50:29,106 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 19:50:29 2019-07-16 19:50:29,106 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-16 19:50:29 2019-07-16 19:50:29,106 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-16 19:50:29 2019-07-16 19:50:29,106 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 19:50:29 2019-07-16 19:50:29,106 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-16 19:50:29 2019-07-16 19:50:29,106 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} click  //input[@id='idSIButton9']
+2019-07-16 19:50:29 2019-07-16 19:50:29,188 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-16 19:50:29 2019-07-16 19:50:29,188 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:50:29 2019-07-16 19:50:29,189 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 19:50:29 2019-07-16 19:50:29,189 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:50:29 2019-07-16 19:50:29,189 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 19:50:29 2019-07-16 19:50:29,189 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 19:50:29 2019-07-16 19:50:29,189 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 19:50:34 2019-07-16 19:50:34,189 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 19:50:34 2019-07-16 19:50:34,189 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:4
+2019-07-16 19:50:34 2019-07-16 19:50:34,189 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Password
+2019-07-16 19:50:34 2019-07-16 19:50:34,189 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-16 19:50:34 2019-07-16 19:50:34,189 [main] INFO  org.isb.training.selenium.Automation  - value:llllll
+2019-07-16 19:50:34 2019-07-16 19:50:34,189 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 19:50:34 2019-07-16 19:50:34,189 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input llllll //input[@id='i0118']
+2019-07-16 19:50:34 2019-07-16 19:50:34,275 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 19:50:34 2019-07-16 19:50:34,275 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:50:34 2019-07-16 19:50:34,275 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 19:50:34 2019-07-16 19:50:34,275 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:50:34 2019-07-16 19:50:34,275 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 19:50:34 2019-07-16 19:50:34,275 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 19:50:34 2019-07-16 19:50:34,275 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 19:50:39 2019-07-16 19:50:39,275 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 19:50:39 2019-07-16 19:50:39,275 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:5
+2019-07-16 19:50:39 2019-07-16 19:50:39,275 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click Sign in Button
+2019-07-16 19:50:39 2019-07-16 19:50:39,275 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-16 19:50:39 2019-07-16 19:50:39,275 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 19:50:39 2019-07-16 19:50:39,275 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-16 19:50:39 2019-07-16 19:50:39,275 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} click  //input[@id='idSIButton9']
+2019-07-16 19:50:39 2019-07-16 19:50:39,659 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-16 19:50:39 2019-07-16 19:50:39,659 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 19:50:39 2019-07-16 19:50:39,659 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 19:50:39 2019-07-16 19:50:39,659 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:50:39 2019-07-16 19:50:39,659 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 19:50:39 2019-07-16 19:50:39,659 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 19:50:39 2019-07-16 19:50:39,659 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 19:50:44 2019-07-16 19:50:44,660 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 19:50:44 2019-07-16 19:50:44,660 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 19:50:44 2019-07-16 19:50:44,660 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-16 19:50:44 2019-07-16 19:50:44,660 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 19:50:44 2019-07-16 19:50:44,660 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 19:50:44 2019-07-16 19:50:44,660 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-16 19:50:44 2019-07-16 19:50:44,660 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} CloseBrowser  
+2019-07-16 19:50:44 2019-07-16 19:50:44,913 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-16 20:00:23 2019-07-16 20:00:23,183 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-07-16 20:00:23 2019-07-16 20:00:23,184 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-07-16 20:00:23 2019-07-16 20:00:23,184 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-07-16 20:00:23 2019-07-16 20:00:23,219 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-07-16 20:00:23 2019-07-16 20:00:23,219 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-07-16 20:00:23 2019-07-16 20:00:23,220 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-07-16 20:00:23 2019-07-16 20:00:23,220 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-16 20:00:28 2019-07-16 20:00:28,959 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 20:00:28 2019-07-16 20:00:28,960 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-16 20:00:28 2019-07-16 20:00:28,960 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:00:28 2019-07-16 20:00:28,960 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-16 20:00:28 2019-07-16 20:00:28,960 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-16 20:00:30 2019-07-16 20:00:30,229 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-16 20:00:30 2019-07-16 20:00:30,229 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 20:00:30 2019-07-16 20:00:30,229 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter correct Username
+2019-07-16 20:00:30 2019-07-16 20:00:30,229 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-16 20:00:30 2019-07-16 20:00:30,230 [main] INFO  org.isb.training.selenium.Automation  - value:Gurdeepsinghiet@gmail.com
+2019-07-16 20:00:30 2019-07-16 20:00:30,230 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 20:00:30 2019-07-16 20:00:30,557 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 20:00:30 2019-07-16 20:00:30,557 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:00:30 2019-07-16 20:00:30,558 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 20:00:30 2019-07-16 20:00:30,558 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:00:30 2019-07-16 20:00:30,558 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 20:00:30 2019-07-16 20:00:30,558 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 20:00:35 2019-07-16 20:00:35,558 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 20:00:35 2019-07-16 20:00:35,558 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:00:35 2019-07-16 20:00:35,558 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-16 20:00:35 2019-07-16 20:00:35,559 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-16 20:00:35 2019-07-16 20:00:35,559 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 20:00:35 2019-07-16 20:00:35,559 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-16 20:00:40 2019-07-16 20:00:40,742 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-16 20:00:40 2019-07-16 20:00:40,743 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:00:40 2019-07-16 20:00:40,743 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sllep 
+2019-07-16 20:00:40 2019-07-16 20:00:40,743 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:00:40 2019-07-16 20:00:40,743 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 20:00:40 2019-07-16 20:00:40,743 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 20:00:45 2019-07-16 20:00:45,744 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 20:00:45 2019-07-16 20:00:45,744 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 20:00:45 2019-07-16 20:00:45,744 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Password
+2019-07-16 20:00:45 2019-07-16 20:00:45,744 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-16 20:00:45 2019-07-16 20:00:45,744 [main] INFO  org.isb.training.selenium.Automation  - value:#dhm123
+2019-07-16 20:00:45 2019-07-16 20:00:45,744 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 20:00:45 2019-07-16 20:00:45,845 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 20:00:45 2019-07-16 20:00:45,845 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:00:45 2019-07-16 20:00:45,845 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 20:00:45 2019-07-16 20:00:45,846 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:00:45 2019-07-16 20:00:45,846 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 20:00:45 2019-07-16 20:00:45,846 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 20:00:50 2019-07-16 20:00:50,846 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 20:00:50 2019-07-16 20:00:50,846 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 20:00:50 2019-07-16 20:00:50,846 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-16 20:00:50 2019-07-16 20:00:50,846 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:00:50 2019-07-16 20:00:50,846 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 20:00:50 2019-07-16 20:00:50,846 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-16 20:00:53 2019-07-16 20:00:53,156 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-16 20:00:53 2019-07-16 20:00:53,157 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-07-16 20:00:53 2019-07-16 20:00:53,157 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-07-16 20:00:53 2019-07-16 20:00:53,157 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-07-16 20:00:53 2019-07-16 20:00:53,157 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-16 20:00:56 2019-07-16 20:00:56,754 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 20:00:56 2019-07-16 20:00:56,755 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-16 20:00:56 2019-07-16 20:00:56,755 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:00:56 2019-07-16 20:00:56,756 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-16 20:00:56 2019-07-16 20:00:56,757 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-16 20:00:58 2019-07-16 20:00:58,020 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-16 20:00:58 2019-07-16 20:00:58,020 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:00:58 2019-07-16 20:00:58,020 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 20:00:58 2019-07-16 20:00:58,020 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:00:58 2019-07-16 20:00:58,020 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 20:00:58 2019-07-16 20:00:58,021 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 20:01:03 2019-07-16 20:01:03,021 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 20:01:03 2019-07-16 20:01:03,021 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 20:01:03 2019-07-16 20:01:03,021 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Username
+2019-07-16 20:01:03 2019-07-16 20:01:03,021 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-16 20:01:03 2019-07-16 20:01:03,021 [main] INFO  org.isb.training.selenium.Automation  - value:jack25@hotmail.com
+2019-07-16 20:01:03 2019-07-16 20:01:03,021 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 20:01:03 2019-07-16 20:01:03,156 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 20:01:03 2019-07-16 20:01:03,156 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:01:03 2019-07-16 20:01:03,156 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-16 20:01:03 2019-07-16 20:01:03,156 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-16 20:01:03 2019-07-16 20:01:03,156 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 20:01:03 2019-07-16 20:01:03,157 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-16 20:01:08 2019-07-16 20:01:08,251 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-16 20:01:08 2019-07-16 20:01:08,251 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:01:08 2019-07-16 20:01:08,251 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 20:01:08 2019-07-16 20:01:08,251 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:01:08 2019-07-16 20:01:08,252 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 20:01:08 2019-07-16 20:01:08,252 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 20:01:13 2019-07-16 20:01:13,252 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 20:01:13 2019-07-16 20:01:13,252 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 20:01:13 2019-07-16 20:01:13,252 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter incorrect Password
+2019-07-16 20:01:13 2019-07-16 20:01:13,252 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-16 20:01:13 2019-07-16 20:01:13,252 [main] INFO  org.isb.training.selenium.Automation  - value:#dhm123
+2019-07-16 20:01:13 2019-07-16 20:01:13,252 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 20:01:13 2019-07-16 20:01:13,327 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 20:01:13 2019-07-16 20:01:13,328 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:01:13 2019-07-16 20:01:13,328 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 20:01:13 2019-07-16 20:01:13,328 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:01:13 2019-07-16 20:01:13,328 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 20:01:13 2019-07-16 20:01:13,328 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 20:01:18 2019-07-16 20:01:18,328 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 20:01:18 2019-07-16 20:01:18,328 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 20:01:18 2019-07-16 20:01:18,328 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-16 20:01:18 2019-07-16 20:01:18,328 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:01:18 2019-07-16 20:01:18,328 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 20:01:18 2019-07-16 20:01:18,328 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-16 20:01:18 2019-07-16 20:01:18,408 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-16 20:01:18 2019-07-16 20:01:18,408 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-07-16 20:01:18 2019-07-16 20:01:18,409 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-07-16 20:01:18 2019-07-16 20:01:18,409 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-07-16 20:01:18 2019-07-16 20:01:18,410 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-16 20:01:22 2019-07-16 20:01:22,219 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 20:01:22 2019-07-16 20:01:22,219 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-16 20:01:22 2019-07-16 20:01:22,219 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:01:22 2019-07-16 20:01:22,219 [main] INFO  org.isb.training.selenium.Automation  - value:https://login.live.com
+2019-07-16 20:01:22 2019-07-16 20:01:22,220 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-16 20:01:23 2019-07-16 20:01:23,693 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-16 20:01:23 2019-07-16 20:01:23,693 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:01:23 2019-07-16 20:01:23,693 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-07-16 20:01:23 2019-07-16 20:01:23,693 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0116']
+2019-07-16 20:01:23 2019-07-16 20:01:23,693 [main] INFO  org.isb.training.selenium.Automation  - value:kkkkkkk
+2019-07-16 20:01:23 2019-07-16 20:01:23,693 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 20:01:23 2019-07-16 20:01:23,946 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 20:01:23 2019-07-16 20:01:23,946 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:01:23 2019-07-16 20:01:23,946 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 20:01:23 2019-07-16 20:01:23,946 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:01:23 2019-07-16 20:01:23,947 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 20:01:23 2019-07-16 20:01:23,947 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 20:01:28 2019-07-16 20:01:28,948 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 20:01:28 2019-07-16 20:01:28,948 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 20:01:28 2019-07-16 20:01:28,948 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click on Next Button
+2019-07-16 20:01:28 2019-07-16 20:01:28,948 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-16 20:01:28 2019-07-16 20:01:28,948 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 20:01:28 2019-07-16 20:01:28,948 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-16 20:01:34 2019-07-16 20:01:34,025 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-16 20:01:34 2019-07-16 20:01:34,025 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:01:34 2019-07-16 20:01:34,025 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 20:01:34 2019-07-16 20:01:34,025 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:01:34 2019-07-16 20:01:34,025 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 20:01:34 2019-07-16 20:01:34,025 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 20:01:39 2019-07-16 20:01:39,026 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 20:01:39 2019-07-16 20:01:39,026 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:4
+2019-07-16 20:01:39 2019-07-16 20:01:39,026 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Password
+2019-07-16 20:01:39 2019-07-16 20:01:39,026 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='i0118']
+2019-07-16 20:01:39 2019-07-16 20:01:39,026 [main] INFO  org.isb.training.selenium.Automation  - value:llllll
+2019-07-16 20:01:39 2019-07-16 20:01:39,026 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 20:01:39 2019-07-16 20:01:39,095 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 20:01:39 2019-07-16 20:01:39,095 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:01:39 2019-07-16 20:01:39,095 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 20:01:39 2019-07-16 20:01:39,095 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:01:39 2019-07-16 20:01:39,095 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 20:01:39 2019-07-16 20:01:39,095 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 20:01:44 2019-07-16 20:01:44,095 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 20:01:44 2019-07-16 20:01:44,095 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:5
+2019-07-16 20:01:44 2019-07-16 20:01:44,095 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click Sign in Button
+2019-07-16 20:01:44 2019-07-16 20:01:44,095 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://input[@id='idSIButton9']
+2019-07-16 20:01:44 2019-07-16 20:01:44,095 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 20:01:44 2019-07-16 20:01:44,095 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:click
+2019-07-16 20:01:49 2019-07-16 20:01:49,175 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Click is performed sucessfully
+2019-07-16 20:01:49 2019-07-16 20:01:49,176 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 20:01:49 2019-07-16 20:01:49,176 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 20:01:49 2019-07-16 20:01:49,176 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:01:49 2019-07-16 20:01:49,176 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 20:01:49 2019-07-16 20:01:49,177 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 20:01:54 2019-07-16 20:01:54,177 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 20:01:54 2019-07-16 20:01:54,177 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 20:01:54 2019-07-16 20:01:54,177 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-16 20:01:54 2019-07-16 20:01:54,177 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 20:01:54 2019-07-16 20:01:54,177 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 20:01:54 2019-07-16 20:01:54,177 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-16 20:01:56 2019-07-16 20:01:56,489 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-16 21:59:01 2019-07-16 21:59:01,287 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-07-16 21:59:01 2019-07-16 21:59:01,290 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-07-16 21:59:01 2019-07-16 21:59:01,290 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-07-16 21:59:01 2019-07-16 21:59:01,356 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-07-16 21:59:01 2019-07-16 21:59:01,356 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-07-16 21:59:01 2019-07-16 21:59:01,356 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-07-16 21:59:01 2019-07-16 21:59:01,357 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 21:59:01 2019-07-16 21:59:01,358 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-07-16 21:59:01 2019-07-16 21:59:01,359 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-07-16 21:59:01 2019-07-16 21:59:01,359 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-07-16 21:59:01 2019-07-16 21:59:01,359 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 21:59:01 2019-07-16 21:59:01,359 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-07-16 21:59:01 2019-07-16 21:59:01,359 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-07-16 21:59:01 2019-07-16 21:59:01,360 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-07-16 21:59:01 2019-07-16 21:59:01,360 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 21:59:01 2019-07-16 21:59:01,360 [main] INFO  org.isb.training.selenium.Automation  - TestCases:4
+2019-07-16 21:59:01 2019-07-16 21:59:01,360 [main] INFO  org.isb.training.selenium.Automation  - TestCases:T4
+2019-07-16 21:59:01 2019-07-16 21:59:01,360 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Submit Application for applying Automation Practice
+2019-07-16 21:59:01 2019-07-16 21:59:01,360 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-16 21:59:14 2019-07-16 21:59:14,505 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:2
+2019-07-16 21:59:14 2019-07-16 21:59:14,505 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:UserRegistrationTestCases
+2019-07-16 21:59:14 2019-07-16 21:59:14,506 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:N
+2019-07-16 22:01:19 2019-07-16 22:01:19,762 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-07-16 22:01:19 2019-07-16 22:01:19,768 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-07-16 22:01:19 2019-07-16 22:01:19,768 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-07-16 22:01:19 2019-07-16 22:01:19,840 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-07-16 22:01:19 2019-07-16 22:01:19,841 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-07-16 22:01:19 2019-07-16 22:01:19,842 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-07-16 22:01:19 2019-07-16 22:01:19,844 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 22:01:19 2019-07-16 22:01:19,844 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-07-16 22:01:19 2019-07-16 22:01:19,844 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-07-16 22:01:19 2019-07-16 22:01:19,845 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-07-16 22:01:19 2019-07-16 22:01:19,845 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 22:01:19 2019-07-16 22:01:19,845 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-07-16 22:01:19 2019-07-16 22:01:19,845 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-07-16 22:01:19 2019-07-16 22:01:19,846 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-07-16 22:01:19 2019-07-16 22:01:19,846 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 22:01:19 2019-07-16 22:01:19,846 [main] INFO  org.isb.training.selenium.Automation  - TestCases:4
+2019-07-16 22:01:19 2019-07-16 22:01:19,847 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC4
+2019-07-16 22:01:19 2019-07-16 22:01:19,847 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Submit Application for applying Automation Practice
+2019-07-16 22:01:19 2019-07-16 22:01:19,848 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-16 22:01:29 2019-07-16 22:01:29,658 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:2
+2019-07-16 22:01:29 2019-07-16 22:01:29,658 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:UserRegistrationTestCases
+2019-07-16 22:01:29 2019-07-16 22:01:29,658 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:N
+2019-07-16 22:05:31 2019-07-16 22:05:31,145 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-07-16 22:05:31 2019-07-16 22:05:31,148 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-07-16 22:05:31 2019-07-16 22:05:31,148 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-07-16 22:05:31 2019-07-16 22:05:31,205 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-07-16 22:05:31 2019-07-16 22:05:31,205 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-07-16 22:05:31 2019-07-16 22:05:31,206 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-07-16 22:05:31 2019-07-16 22:05:31,206 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 22:05:31 2019-07-16 22:05:31,207 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-07-16 22:05:31 2019-07-16 22:05:31,208 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-07-16 22:05:31 2019-07-16 22:05:31,209 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-07-16 22:05:31 2019-07-16 22:05:31,209 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 22:05:31 2019-07-16 22:05:31,209 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-07-16 22:05:31 2019-07-16 22:05:31,210 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-07-16 22:05:31 2019-07-16 22:05:31,210 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-07-16 22:05:31 2019-07-16 22:05:31,210 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 22:05:31 2019-07-16 22:05:31,211 [main] INFO  org.isb.training.selenium.Automation  - TestCases:4
+2019-07-16 22:05:31 2019-07-16 22:05:31,211 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC4
+2019-07-16 22:05:31 2019-07-16 22:05:31,211 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Submit Application for applying Automation Practice
+2019-07-16 22:05:31 2019-07-16 22:05:31,211 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-16 22:05:44 2019-07-16 22:05:44,034 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 22:05:44 2019-07-16 22:05:44,036 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-16 22:05:44 2019-07-16 22:05:44,037 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:05:44 2019-07-16 22:05:44,038 [main] INFO  org.isb.training.selenium.Automation  - value:https://www.toolsqa.com/automation-practice-form/
+2019-07-16 22:05:44 2019-07-16 22:05:44,038 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-16 22:05:44 2019-07-16 22:05:44,038 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} url https://www.toolsqa.com/automation-practice-form/ 
+2019-07-16 22:05:50 2019-07-16 22:05:50,948 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-16 22:05:50 2019-07-16 22:05:50,949 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 22:05:50 2019-07-16 22:05:50,950 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-07-16 22:05:50 2019-07-16 22:05:50,950 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-07-16 22:05:50 2019-07-16 22:05:50,950 [main] INFO  org.isb.training.selenium.Automation  - value:Fareeha
+2019-07-16 22:05:50 2019-07-16 22:05:50,950 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 22:05:50 2019-07-16 22:05:50,950 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input Fareeha //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-07-16 22:06:06 2019-07-16 22:06:06,859 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 22:06:06 2019-07-16 22:06:06,860 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 22:06:06 2019-07-16 22:06:06,860 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 22:06:06 2019-07-16 22:06:06,860 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:06:06 2019-07-16 22:06:06,860 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 22:06:06 2019-07-16 22:06:06,860 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 22:06:06 2019-07-16 22:06:06,860 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 22:06:11 2019-07-16 22:06:11,862 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 22:06:11 2019-07-16 22:06:11,862 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:4
+2019-07-16 22:06:11 2019-07-16 22:06:11,862 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Password
+2019-07-16 22:06:11 2019-07-16 22:06:11,862 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[11]/input
+2019-07-16 22:06:11 2019-07-16 22:06:11,863 [main] INFO  org.isb.training.selenium.Automation  - value:abcd
+2019-07-16 22:06:11 2019-07-16 22:06:11,863 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 22:06:11 2019-07-16 22:06:11,863 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input abcd //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[11]/input
+2019-07-16 22:06:12 2019-07-16 22:06:12,210 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 22:06:12 2019-07-16 22:06:12,211 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 22:06:12 2019-07-16 22:06:12,211 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 22:06:12 2019-07-16 22:06:12,211 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:06:12 2019-07-16 22:06:12,211 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 22:06:12 2019-07-16 22:06:12,212 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 22:06:12 2019-07-16 22:06:12,212 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 22:06:17 2019-07-16 22:06:17,212 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 22:06:17 2019-07-16 22:06:17,212 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:5
+2019-07-16 22:06:17 2019-07-16 22:06:17,212 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click Sign in Button
+2019-07-16 22:06:17 2019-07-16 22:06:17,212 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:sex-0
+2019-07-16 22:06:17 2019-07-16 22:06:17,212 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 22:06:17 2019-07-16 22:06:17,212 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:radio-male
+2019-07-16 22:06:17 2019-07-16 22:06:17,212 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} radio-male  sex-0
+2019-07-16 22:06:17 2019-07-16 22:06:17,524 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 22:06:17 2019-07-16 22:06:17,525 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 22:06:17 2019-07-16 22:06:17,525 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:06:17 2019-07-16 22:06:17,525 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 22:06:17 2019-07-16 22:06:17,525 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 22:06:17 2019-07-16 22:06:17,525 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 22:06:22 2019-07-16 22:06:22,525 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 22:06:22 2019-07-16 22:06:22,525 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 22:06:22 2019-07-16 22:06:22,525 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-16 22:06:22 2019-07-16 22:06:22,525 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:06:22 2019-07-16 22:06:22,525 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 22:06:22 2019-07-16 22:06:22,525 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-16 22:06:22 2019-07-16 22:06:22,525 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} CloseBrowser  
+2019-07-16 22:06:24 2019-07-16 22:06:24,973 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-16 22:06:24 2019-07-16 22:06:24,974 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:2
+2019-07-16 22:06:24 2019-07-16 22:06:24,975 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:UserRegistrationTestCases
+2019-07-16 22:06:24 2019-07-16 22:06:24,975 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:N
+2019-07-16 22:07:14 2019-07-16 22:07:14,853 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-07-16 22:07:14 2019-07-16 22:07:14,855 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-07-16 22:07:14 2019-07-16 22:07:14,855 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-07-16 22:07:14 2019-07-16 22:07:14,919 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-07-16 22:07:14 2019-07-16 22:07:14,920 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-07-16 22:07:14 2019-07-16 22:07:14,920 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-07-16 22:07:14 2019-07-16 22:07:14,920 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 22:07:14 2019-07-16 22:07:14,920 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-07-16 22:07:14 2019-07-16 22:07:14,920 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-07-16 22:07:14 2019-07-16 22:07:14,920 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-07-16 22:07:14 2019-07-16 22:07:14,921 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 22:07:14 2019-07-16 22:07:14,921 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-07-16 22:07:14 2019-07-16 22:07:14,921 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-07-16 22:07:14 2019-07-16 22:07:14,922 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-07-16 22:07:14 2019-07-16 22:07:14,922 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 22:07:14 2019-07-16 22:07:14,922 [main] INFO  org.isb.training.selenium.Automation  - TestCases:4
+2019-07-16 22:07:14 2019-07-16 22:07:14,922 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC4
+2019-07-16 22:07:14 2019-07-16 22:07:14,922 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Submit Application for applying Automation Practice
+2019-07-16 22:07:14 2019-07-16 22:07:14,922 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-16 22:07:23 2019-07-16 22:07:23,675 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 22:07:23 2019-07-16 22:07:23,676 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-16 22:07:23 2019-07-16 22:07:23,676 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:07:23 2019-07-16 22:07:23,676 [main] INFO  org.isb.training.selenium.Automation  - value:https://www.toolsqa.com/automation-practice-form/
+2019-07-16 22:07:23 2019-07-16 22:07:23,676 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-16 22:07:23 2019-07-16 22:07:23,678 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} url https://www.toolsqa.com/automation-practice-form/ 
+2019-07-16 22:07:29 2019-07-16 22:07:29,367 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-16 22:07:29 2019-07-16 22:07:29,367 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 22:07:29 2019-07-16 22:07:29,367 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-07-16 22:07:29 2019-07-16 22:07:29,368 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-07-16 22:07:29 2019-07-16 22:07:29,368 [main] INFO  org.isb.training.selenium.Automation  - value:Fareeha
+2019-07-16 22:07:29 2019-07-16 22:07:29,368 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 22:07:29 2019-07-16 22:07:29,368 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input Fareeha //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-07-16 22:07:34 2019-07-16 22:07:34,385 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 22:07:34 2019-07-16 22:07:34,385 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 22:07:34 2019-07-16 22:07:34,385 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 22:07:34 2019-07-16 22:07:34,385 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:07:34 2019-07-16 22:07:34,385 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 22:07:34 2019-07-16 22:07:34,386 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 22:07:34 2019-07-16 22:07:34,488 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 22:07:39 2019-07-16 22:07:39,488 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 22:07:39 2019-07-16 22:07:39,488 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:4
+2019-07-16 22:07:39 2019-07-16 22:07:39,488 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Password
+2019-07-16 22:07:39 2019-07-16 22:07:39,488 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[11]/input
+2019-07-16 22:07:39 2019-07-16 22:07:39,489 [main] INFO  org.isb.training.selenium.Automation  - value:abcd
+2019-07-16 22:07:39 2019-07-16 22:07:39,489 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 22:07:39 2019-07-16 22:07:39,489 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input abcd //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[11]/input
+2019-07-16 22:07:42 2019-07-16 22:07:42,609 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 22:07:42 2019-07-16 22:07:42,609 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 22:07:42 2019-07-16 22:07:42,609 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 22:07:42 2019-07-16 22:07:42,609 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:07:42 2019-07-16 22:07:42,610 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 22:07:42 2019-07-16 22:07:42,611 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 22:07:42 2019-07-16 22:07:42,611 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 22:07:47 2019-07-16 22:07:47,612 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 22:07:47 2019-07-16 22:07:47,612 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:5
+2019-07-16 22:07:47 2019-07-16 22:07:47,612 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click Sign in Button
+2019-07-16 22:07:47 2019-07-16 22:07:47,612 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:sex-0
+2019-07-16 22:07:47 2019-07-16 22:07:47,612 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 22:07:47 2019-07-16 22:07:47,612 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:radio-male
+2019-07-16 22:07:47 2019-07-16 22:07:47,613 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} radio-male  sex-0
+2019-07-16 22:07:48 2019-07-16 22:07:48,243 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 22:07:48 2019-07-16 22:07:48,243 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 22:07:48 2019-07-16 22:07:48,244 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:07:48 2019-07-16 22:07:48,244 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 22:07:48 2019-07-16 22:07:48,244 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 22:07:48 2019-07-16 22:07:48,244 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 22:07:53 2019-07-16 22:07:53,245 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 22:07:53 2019-07-16 22:07:53,245 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 22:07:53 2019-07-16 22:07:53,245 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-16 22:07:53 2019-07-16 22:07:53,245 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:07:53 2019-07-16 22:07:53,245 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 22:07:53 2019-07-16 22:07:53,246 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-16 22:07:53 2019-07-16 22:07:53,246 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} CloseBrowser  
+2019-07-16 22:07:56 2019-07-16 22:07:56,047 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-16 22:07:56 2019-07-16 22:07:56,047 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:2
+2019-07-16 22:07:56 2019-07-16 22:07:56,047 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:UserRegistrationTestCases
+2019-07-16 22:07:56 2019-07-16 22:07:56,047 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:N
+2019-07-16 22:09:40 2019-07-16 22:09:40,683 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-07-16 22:09:40 2019-07-16 22:09:40,685 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-07-16 22:09:40 2019-07-16 22:09:40,685 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-07-16 22:09:40 2019-07-16 22:09:40,754 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-07-16 22:09:40 2019-07-16 22:09:40,755 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-07-16 22:09:40 2019-07-16 22:09:40,755 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-07-16 22:09:40 2019-07-16 22:09:40,755 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 22:09:40 2019-07-16 22:09:40,755 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-07-16 22:09:40 2019-07-16 22:09:40,755 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-07-16 22:09:40 2019-07-16 22:09:40,755 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-07-16 22:09:40 2019-07-16 22:09:40,756 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 22:09:40 2019-07-16 22:09:40,756 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-07-16 22:09:40 2019-07-16 22:09:40,757 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-07-16 22:09:40 2019-07-16 22:09:40,757 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-07-16 22:09:40 2019-07-16 22:09:40,757 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-16 22:09:40 2019-07-16 22:09:40,758 [main] INFO  org.isb.training.selenium.Automation  - TestCases:4
+2019-07-16 22:09:40 2019-07-16 22:09:40,758 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC4
+2019-07-16 22:09:40 2019-07-16 22:09:40,758 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Submit Application for applying Automation Practice
+2019-07-16 22:09:40 2019-07-16 22:09:40,758 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-16 22:09:53 2019-07-16 22:09:53,067 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-16 22:09:53 2019-07-16 22:09:53,068 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-16 22:09:53 2019-07-16 22:09:53,068 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:09:53 2019-07-16 22:09:53,068 [main] INFO  org.isb.training.selenium.Automation  - value:https://www.toolsqa.com/automation-practice-form/
+2019-07-16 22:09:53 2019-07-16 22:09:53,069 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-16 22:09:53 2019-07-16 22:09:53,069 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} url https://www.toolsqa.com/automation-practice-form/ 
+2019-07-16 22:09:56 2019-07-16 22:09:56,286 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-16 22:09:56 2019-07-16 22:09:56,286 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 22:09:56 2019-07-16 22:09:56,287 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-07-16 22:09:56 2019-07-16 22:09:56,287 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-07-16 22:09:56 2019-07-16 22:09:56,287 [main] INFO  org.isb.training.selenium.Automation  - value:Fareeha
+2019-07-16 22:09:56 2019-07-16 22:09:56,287 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 22:09:56 2019-07-16 22:09:56,287 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input Fareeha //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-07-16 22:10:00 2019-07-16 22:10:00,595 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 22:10:00 2019-07-16 22:10:00,595 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 22:10:00 2019-07-16 22:10:00,595 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 22:10:00 2019-07-16 22:10:00,595 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:10:00 2019-07-16 22:10:00,595 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 22:10:00 2019-07-16 22:10:00,596 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 22:10:00 2019-07-16 22:10:00,596 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 22:10:05 2019-07-16 22:10:05,599 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 22:10:05 2019-07-16 22:10:05,600 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:4
+2019-07-16 22:10:05 2019-07-16 22:10:05,600 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Password
+2019-07-16 22:10:05 2019-07-16 22:10:05,600 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[11]/input
+2019-07-16 22:10:05 2019-07-16 22:10:05,600 [main] INFO  org.isb.training.selenium.Automation  - value:abcd
+2019-07-16 22:10:05 2019-07-16 22:10:05,601 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-16 22:10:05 2019-07-16 22:10:05,601 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input abcd //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[11]/input
+2019-07-16 22:10:07 2019-07-16 22:10:07,052 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-07-16 22:10:07 2019-07-16 22:10:07,052 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 22:10:07 2019-07-16 22:10:07,052 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 22:10:07 2019-07-16 22:10:07,052 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:10:07 2019-07-16 22:10:07,052 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 22:10:07 2019-07-16 22:10:07,052 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 22:10:07 2019-07-16 22:10:07,053 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 22:10:12 2019-07-16 22:10:12,054 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 22:10:12 2019-07-16 22:10:12,054 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:5
+2019-07-16 22:10:12 2019-07-16 22:10:12,054 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click Sign in Button
+2019-07-16 22:10:12 2019-07-16 22:10:12,054 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:sex-1
+2019-07-16 22:10:12 2019-07-16 22:10:12,054 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 22:10:12 2019-07-16 22:10:12,055 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:radio-female
+2019-07-16 22:10:12 2019-07-16 22:10:12,055 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} radio-female  sex-1
+2019-07-16 22:10:12 2019-07-16 22:10:12,484 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-16 22:10:12 2019-07-16 22:10:12,484 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-07-16 22:10:12 2019-07-16 22:10:12,484 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:10:12 2019-07-16 22:10:12,484 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-07-16 22:10:12 2019-07-16 22:10:12,484 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-07-16 22:10:12 2019-07-16 22:10:12,484 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-07-16 22:10:17 2019-07-16 22:10:17,485 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-07-16 22:10:17 2019-07-16 22:10:17,485 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-07-16 22:10:17 2019-07-16 22:10:17,489 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-07-16 22:10:17 2019-07-16 22:10:17,489 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-16 22:10:17 2019-07-16 22:10:17,489 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-07-16 22:10:17 2019-07-16 22:10:17,489 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-07-16 22:10:17 2019-07-16 22:10:17,489 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} CloseBrowser  
+2019-07-16 22:10:20 2019-07-16 22:10:20,226 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-07-16 22:10:20 2019-07-16 22:10:20,227 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:2
+2019-07-16 22:10:20 2019-07-16 22:10:20,227 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:UserRegistrationTestCases
+2019-07-16 22:10:20 2019-07-16 22:10:20,227 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:N
+2019-07-17 19:25:13 2019-07-17 19:25:13,651 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-07-17 19:25:13 2019-07-17 19:25:13,657 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-07-17 19:25:13 2019-07-17 19:25:13,659 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-07-17 19:25:13 2019-07-17 19:25:13,806 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-07-17 19:25:13 2019-07-17 19:25:13,807 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-07-17 19:25:13 2019-07-17 19:25:13,808 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-07-17 19:25:13 2019-07-17 19:25:13,808 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-17 19:25:13 2019-07-17 19:25:13,810 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-07-17 19:25:13 2019-07-17 19:25:13,810 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-07-17 19:25:13 2019-07-17 19:25:13,811 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-07-17 19:25:13 2019-07-17 19:25:13,811 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-17 19:25:13 2019-07-17 19:25:13,811 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-07-17 19:25:13 2019-07-17 19:25:13,812 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-07-17 19:25:13 2019-07-17 19:25:13,812 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-07-17 19:25:13 2019-07-17 19:25:13,812 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-17 19:25:13 2019-07-17 19:25:13,814 [main] INFO  org.isb.training.selenium.Automation  - TestCases:4
+2019-07-17 19:25:13 2019-07-17 19:25:13,816 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC4
+2019-07-17 19:25:13 2019-07-17 19:25:13,816 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Submit Application for applying Automation Practice
+2019-07-17 19:25:13 2019-07-17 19:25:13,817 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-17 19:25:28 2019-07-17 19:25:28,860 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-17 19:25:28 2019-07-17 19:25:28,860 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-17 19:25:28 2019-07-17 19:25:28,861 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-17 19:25:28 2019-07-17 19:25:28,861 [main] INFO  org.isb.training.selenium.Automation  - value:https://www.toolsqa.com/automation-practice-form/
+2019-07-17 19:25:28 2019-07-17 19:25:28,861 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-17 19:25:28 2019-07-17 19:25:28,861 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} url https://www.toolsqa.com/automation-practice-form/ 
+2019-07-17 19:25:31 2019-07-17 19:25:31,721 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-17 19:25:31 2019-07-17 19:25:31,723 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-17 19:25:31 2019-07-17 19:25:31,723 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-07-17 19:25:31 2019-07-17 19:25:31,723 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-07-17 19:25:31 2019-07-17 19:25:31,723 [main] INFO  org.isb.training.selenium.Automation  - value:Fareeha
+2019-07-17 19:25:31 2019-07-17 19:25:31,723 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-17 19:25:31 2019-07-17 19:25:31,723 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input Fareeha //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-07-17 19:33:39 2019-07-17 19:33:39,502 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-07-17 19:33:39 2019-07-17 19:33:39,535 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-07-17 19:33:39 2019-07-17 19:33:39,535 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-07-17 19:33:39 2019-07-17 19:33:39,627 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-07-17 19:33:39 2019-07-17 19:33:39,628 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-07-17 19:33:39 2019-07-17 19:33:39,628 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-07-17 19:33:39 2019-07-17 19:33:39,629 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-17 19:33:39 2019-07-17 19:33:39,629 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-07-17 19:33:39 2019-07-17 19:33:39,629 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-07-17 19:33:39 2019-07-17 19:33:39,629 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-07-17 19:33:39 2019-07-17 19:33:39,630 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-17 19:33:39 2019-07-17 19:33:39,630 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-07-17 19:33:39 2019-07-17 19:33:39,631 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-07-17 19:33:39 2019-07-17 19:33:39,631 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-07-17 19:33:39 2019-07-17 19:33:39,631 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-07-17 19:33:39 2019-07-17 19:33:39,632 [main] INFO  org.isb.training.selenium.Automation  - TestCases:4
+2019-07-17 19:33:39 2019-07-17 19:33:39,632 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC4
+2019-07-17 19:33:39 2019-07-17 19:33:39,633 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Submit Application for applying Automation Practice
+2019-07-17 19:33:39 2019-07-17 19:33:39,634 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-07-17 19:33:51 2019-07-17 19:33:51,363 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-07-17 19:33:51 2019-07-17 19:33:51,364 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-07-17 19:33:51 2019-07-17 19:33:51,364 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-07-17 19:33:51 2019-07-17 19:33:51,364 [main] INFO  org.isb.training.selenium.Automation  - value:https://www.toolsqa.com/automation-practice-form/
+2019-07-17 19:33:51 2019-07-17 19:33:51,365 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-07-17 19:33:51 2019-07-17 19:33:51,365 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} url https://www.toolsqa.com/automation-practice-form/ 
+2019-07-17 19:33:54 2019-07-17 19:33:54,208 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-07-17 19:33:54 2019-07-17 19:33:54,209 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-07-17 19:33:54 2019-07-17 19:33:54,209 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-07-17 19:33:54 2019-07-17 19:33:54,209 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-07-17 19:33:54 2019-07-17 19:33:54,210 [main] INFO  org.isb.training.selenium.Automation  - value:Fareeha
+2019-07-17 19:33:54 2019-07-17 19:33:54,210 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-07-17 19:33:54 2019-07-17 19:33:54,210 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input Fareeha //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-08-01 21:18:08 2019-08-01 21:18:08,889 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-08-01 21:18:08 2019-08-01 21:18:08,942 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-08-01 21:18:08 2019-08-01 21:18:08,942 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-08-01 21:18:08 2019-08-01 21:18:08,981 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-08-01 21:18:08 2019-08-01 21:18:08,981 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-08-01 21:18:08 2019-08-01 21:18:08,981 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-08-01 21:18:08 2019-08-01 21:18:08,982 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-08-01 21:18:08 2019-08-01 21:18:08,982 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-08-01 21:18:08 2019-08-01 21:18:08,982 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-08-01 21:18:08 2019-08-01 21:18:08,983 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-08-01 21:18:08 2019-08-01 21:18:08,983 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-08-01 21:18:08 2019-08-01 21:18:08,984 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-08-01 21:18:08 2019-08-01 21:18:08,984 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-08-01 21:18:08 2019-08-01 21:18:08,984 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-08-01 21:18:08 2019-08-01 21:18:08,984 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-08-01 21:18:08 2019-08-01 21:18:08,984 [main] INFO  org.isb.training.selenium.Automation  - TestCases:4
+2019-08-01 21:18:08 2019-08-01 21:18:08,985 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC4
+2019-08-01 21:18:08 2019-08-01 21:18:08,985 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Submit Application for applying Automation Practice
+2019-08-01 21:18:08 2019-08-01 21:18:08,985 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-08-01 21:18:14 2019-08-01 21:18:14,506 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-08-01 21:18:14 2019-08-01 21:18:14,508 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-08-01 21:18:14 2019-08-01 21:18:14,509 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-08-01 21:18:14 2019-08-01 21:18:14,509 [main] INFO  org.isb.training.selenium.Automation  - value:https://www.toolsqa.com/automation-practice-form/
+2019-08-01 21:18:14 2019-08-01 21:18:14,509 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-08-01 21:18:14 2019-08-01 21:18:14,509 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} url https://www.toolsqa.com/automation-practice-form/ 
+2019-08-01 21:18:17 2019-08-01 21:18:17,791 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-08-01 21:18:17 2019-08-01 21:18:17,791 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-08-01 21:18:17 2019-08-01 21:18:17,791 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-08-01 21:18:17 2019-08-01 21:18:17,791 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-08-01 21:18:17 2019-08-01 21:18:17,791 [main] INFO  org.isb.training.selenium.Automation  - value:Fareeha
+2019-08-01 21:18:17 2019-08-01 21:18:17,792 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-08-01 21:18:17 2019-08-01 21:18:17,792 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input Fareeha //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-08-01 21:18:24 2019-08-01 21:18:24,105 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-08-01 21:18:24 2019-08-01 21:18:24,106 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-08-01 21:18:24 2019-08-01 21:18:24,106 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-08-01 21:18:24 2019-08-01 21:18:24,106 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-08-01 21:18:24 2019-08-01 21:18:24,106 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-08-01 21:18:24 2019-08-01 21:18:24,106 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-08-01 21:18:24 2019-08-01 21:18:24,106 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-08-01 21:18:29 2019-08-01 21:18:29,108 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-08-01 21:18:29 2019-08-01 21:18:29,108 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:4
+2019-08-01 21:18:29 2019-08-01 21:18:29,109 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Password
+2019-08-01 21:18:29 2019-08-01 21:18:29,109 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[11]/input
+2019-08-01 21:18:29 2019-08-01 21:18:29,109 [main] INFO  org.isb.training.selenium.Automation  - value:abcd
+2019-08-01 21:18:29 2019-08-01 21:18:29,109 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-08-01 21:18:29 2019-08-01 21:18:29,109 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input abcd //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[11]/input
+2019-08-01 21:25:30 2019-08-01 21:25:30,956 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-08-01 21:25:30 2019-08-01 21:25:30,959 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-08-01 21:25:30 2019-08-01 21:25:30,959 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-08-01 21:25:31 2019-08-01 21:25:31,065 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-08-01 21:25:31 2019-08-01 21:25:31,065 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-08-01 21:25:31 2019-08-01 21:25:31,065 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-08-01 21:25:31 2019-08-01 21:25:31,066 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-08-01 21:25:31 2019-08-01 21:25:31,066 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-08-01 21:25:31 2019-08-01 21:25:31,066 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-08-01 21:25:31 2019-08-01 21:25:31,066 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-08-01 21:25:31 2019-08-01 21:25:31,066 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-08-01 21:25:31 2019-08-01 21:25:31,066 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-08-01 21:25:31 2019-08-01 21:25:31,067 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-08-01 21:25:31 2019-08-01 21:25:31,067 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-08-01 21:25:31 2019-08-01 21:25:31,067 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-08-01 21:25:31 2019-08-01 21:25:31,067 [main] INFO  org.isb.training.selenium.Automation  - TestCases:4
+2019-08-01 21:25:31 2019-08-01 21:25:31,067 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC4
+2019-08-01 21:25:31 2019-08-01 21:25:31,068 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Submit Application for applying Automation Practice
+2019-08-01 21:25:31 2019-08-01 21:25:31,069 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-08-01 21:25:35 2019-08-01 21:25:35,240 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-08-01 21:25:35 2019-08-01 21:25:35,240 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-08-01 21:25:35 2019-08-01 21:25:35,242 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-08-01 21:25:35 2019-08-01 21:25:35,242 [main] INFO  org.isb.training.selenium.Automation  - value:https://www.toolsqa.com/automation-practice-form/
+2019-08-01 21:25:35 2019-08-01 21:25:35,242 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-08-01 21:25:35 2019-08-01 21:25:35,242 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} url https://www.toolsqa.com/automation-practice-form/ 
+2019-08-01 21:25:40 2019-08-01 21:25:40,124 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-08-01 21:25:40 2019-08-01 21:25:40,125 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-08-01 21:25:40 2019-08-01 21:25:40,125 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-08-01 21:25:40 2019-08-01 21:25:40,125 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-08-01 21:25:40 2019-08-01 21:25:40,125 [main] INFO  org.isb.training.selenium.Automation  - value:Fareeha
+2019-08-01 21:25:40 2019-08-01 21:25:40,126 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-08-01 21:25:40 2019-08-01 21:25:40,126 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input Fareeha //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-08-01 21:25:48 2019-08-01 21:25:48,769 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-08-01 21:25:48 2019-08-01 21:25:48,770 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-08-01 21:25:48 2019-08-01 21:25:48,770 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-08-01 21:25:48 2019-08-01 21:25:48,770 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-08-01 21:25:48 2019-08-01 21:25:48,770 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-08-01 21:25:48 2019-08-01 21:25:48,770 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-08-01 21:25:48 2019-08-01 21:25:48,770 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-08-01 21:25:53 2019-08-01 21:25:53,772 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-08-01 21:25:53 2019-08-01 21:25:53,772 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:4
+2019-08-01 21:25:53 2019-08-01 21:25:53,772 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Password
+2019-08-01 21:25:53 2019-08-01 21:25:53,772 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[11]/input
+2019-08-01 21:25:53 2019-08-01 21:25:53,772 [main] INFO  org.isb.training.selenium.Automation  - value:abcd
+2019-08-01 21:25:53 2019-08-01 21:25:53,772 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-08-01 21:25:53 2019-08-01 21:25:53,772 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input abcd //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[11]/input
+2019-08-01 21:25:53 2019-08-01 21:25:53,933 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-08-01 21:25:53 2019-08-01 21:25:53,933 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-08-01 21:25:53 2019-08-01 21:25:53,934 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-08-01 21:25:53 2019-08-01 21:25:53,934 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-08-01 21:25:53 2019-08-01 21:25:53,934 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-08-01 21:25:53 2019-08-01 21:25:53,934 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-08-01 21:25:53 2019-08-01 21:25:53,934 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-08-01 21:25:58 2019-08-01 21:25:58,934 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-08-01 21:25:58 2019-08-01 21:25:58,934 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:5
+2019-08-01 21:25:58 2019-08-01 21:25:58,934 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click Sign in Button
+2019-08-01 21:25:58 2019-08-01 21:25:58,934 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:sex-1
+2019-08-01 21:25:58 2019-08-01 21:25:58,934 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-08-01 21:25:58 2019-08-01 21:25:58,935 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:radio-female
+2019-08-01 21:25:58 2019-08-01 21:25:58,935 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} radio-female  sex-1
+2019-08-01 21:25:59 2019-08-01 21:25:59,220 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-08-01 21:25:59 2019-08-01 21:25:59,221 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-08-01 21:25:59 2019-08-01 21:25:59,221 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-08-01 21:25:59 2019-08-01 21:25:59,221 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-08-01 21:25:59 2019-08-01 21:25:59,221 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-08-01 21:25:59 2019-08-01 21:25:59,221 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-08-01 21:26:04 2019-08-01 21:26:04,221 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-08-01 21:26:04 2019-08-01 21:26:04,221 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-08-01 21:26:04 2019-08-01 21:26:04,221 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-08-01 21:26:04 2019-08-01 21:26:04,221 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-08-01 21:26:04 2019-08-01 21:26:04,221 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-08-01 21:26:04 2019-08-01 21:26:04,221 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-08-01 21:26:04 2019-08-01 21:26:04,222 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} CloseBrowser  
+2019-08-01 21:26:06 2019-08-01 21:26:06,469 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-08-01 21:26:06 2019-08-01 21:26:06,470 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:2
+2019-08-01 21:26:06 2019-08-01 21:26:06,470 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:UserRegistrationTestCases
+2019-08-01 21:26:06 2019-08-01 21:26:06,470 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:N
+2019-08-01 21:27:42 2019-08-01 21:27:42,782 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:1
+2019-08-01 21:27:42 2019-08-01 21:27:42,785 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:LoginTestcases
+2019-08-01 21:27:42 2019-08-01 21:27:42,786 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:Y
+2019-08-01 21:27:42 2019-08-01 21:27:42,909 [main] INFO  org.isb.training.selenium.Automation  - TestCases:1
+2019-08-01 21:27:42 2019-08-01 21:27:42,909 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC1
+2019-08-01 21:27:42 2019-08-01 21:27:42,909 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with correct username and password
+2019-08-01 21:27:42 2019-08-01 21:27:42,910 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-08-01 21:27:42 2019-08-01 21:27:42,910 [main] INFO  org.isb.training.selenium.Automation  - TestCases:2
+2019-08-01 21:27:42 2019-08-01 21:27:42,911 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC2
+2019-08-01 21:27:42 2019-08-01 21:27:42,912 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with incorrect username and password
+2019-08-01 21:27:42 2019-08-01 21:27:42,912 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-08-01 21:27:42 2019-08-01 21:27:42,913 [main] INFO  org.isb.training.selenium.Automation  - TestCases:3
+2019-08-01 21:27:42 2019-08-01 21:27:42,915 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC3
+2019-08-01 21:27:42 2019-08-01 21:27:42,916 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Login with empty username and password
+2019-08-01 21:27:42 2019-08-01 21:27:42,916 [main] INFO  org.isb.training.selenium.Automation  - TestCases:N
+2019-08-01 21:27:42 2019-08-01 21:27:42,916 [main] INFO  org.isb.training.selenium.Automation  - TestCases:4
+2019-08-01 21:27:42 2019-08-01 21:27:42,916 [main] INFO  org.isb.training.selenium.Automation  - TestCases:TC4
+2019-08-01 21:27:42 2019-08-01 21:27:42,916 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Submit Application for applying Automation Practice
+2019-08-01 21:27:42 2019-08-01 21:27:42,917 [main] INFO  org.isb.training.selenium.Automation  - TestCases:Y
+2019-08-01 21:27:47 2019-08-01 21:27:47,595 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:1
+2019-08-01 21:27:47 2019-08-01 21:27:47,604 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Open url
+2019-08-01 21:27:47 2019-08-01 21:27:47,606 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-08-01 21:27:47 2019-08-01 21:27:47,606 [main] INFO  org.isb.training.selenium.Automation  - value:https://www.toolsqa.com/automation-practice-form/
+2019-08-01 21:27:47 2019-08-01 21:27:47,606 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:url
+2019-08-01 21:27:47 2019-08-01 21:27:47,606 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} url https://www.toolsqa.com/automation-practice-form/ 
+2019-08-01 21:27:50 2019-08-01 21:27:50,914 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Url is opened sucessfully
+2019-08-01 21:27:50 2019-08-01 21:27:50,914 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-08-01 21:27:50 2019-08-01 21:27:50,914 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Username
+2019-08-01 21:27:50 2019-08-01 21:27:50,914 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-08-01 21:27:50 2019-08-01 21:27:50,915 [main] INFO  org.isb.training.selenium.Automation  - value:Fareeha
+2019-08-01 21:27:50 2019-08-01 21:27:50,915 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-08-01 21:27:50 2019-08-01 21:27:50,915 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input Fareeha //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[8]/input
+2019-08-01 21:27:54 2019-08-01 21:27:54,371 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-08-01 21:27:54 2019-08-01 21:27:54,371 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-08-01 21:27:54 2019-08-01 21:27:54,372 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-08-01 21:27:54 2019-08-01 21:27:54,372 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-08-01 21:27:54 2019-08-01 21:27:54,372 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-08-01 21:27:54 2019-08-01 21:27:54,372 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-08-01 21:27:54 2019-08-01 21:27:54,372 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-08-01 21:27:59 2019-08-01 21:27:59,374 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-08-01 21:27:59 2019-08-01 21:27:59,374 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:4
+2019-08-01 21:27:59 2019-08-01 21:27:59,375 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Enter empty Password
+2019-08-01 21:27:59 2019-08-01 21:27:59,376 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps://*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[11]/input
+2019-08-01 21:27:59 2019-08-01 21:27:59,376 [main] INFO  org.isb.training.selenium.Automation  - value:abcd
+2019-08-01 21:27:59 2019-08-01 21:27:59,376 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:input
+2019-08-01 21:27:59 2019-08-01 21:27:59,376 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} input abcd //*[@id="content"]/div[1]/div/div/div/div[2]/div/form/fieldset/div[11]/input
+2019-08-01 21:28:12 2019-08-01 21:28:12,126 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Input is performed sucessfully
+2019-08-01 21:28:12 2019-08-01 21:28:12,127 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-08-01 21:28:12 2019-08-01 21:28:12,127 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-08-01 21:28:12 2019-08-01 21:28:12,127 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-08-01 21:28:12 2019-08-01 21:28:12,127 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-08-01 21:28:12 2019-08-01 21:28:12,128 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-08-01 21:28:12 2019-08-01 21:28:12,128 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-08-01 21:28:17 2019-08-01 21:28:17,128 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-08-01 21:28:17 2019-08-01 21:28:17,128 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:5
+2019-08-01 21:28:17 2019-08-01 21:28:17,128 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Click Sign in Button
+2019-08-01 21:28:17 2019-08-01 21:28:17,129 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:sex-1
+2019-08-01 21:28:17 2019-08-01 21:28:17,129 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-08-01 21:28:17 2019-08-01 21:28:17,129 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:radio-female
+2019-08-01 21:28:17 2019-08-01 21:28:17,129 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} radio-female  sex-1
+2019-08-01 21:28:17 2019-08-01 21:28:17,322 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:2
+2019-08-01 21:28:17 2019-08-01 21:28:17,323 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Sleep 
+2019-08-01 21:28:17 2019-08-01 21:28:17,323 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-08-01 21:28:17 2019-08-01 21:28:17,323 [main] INFO  org.isb.training.selenium.Automation  - value:10
+2019-08-01 21:28:17 2019-08-01 21:28:17,323 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:sleep
+2019-08-01 21:28:17 2019-08-01 21:28:17,323 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} sleep 10 
+2019-08-01 21:28:22 2019-08-01 21:28:22,324 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - sleep is done sucessfully
+2019-08-01 21:28:22 2019-08-01 21:28:22,324 [main] INFO  org.isb.training.selenium.Automation  - snoTestSteps:3
+2019-08-01 21:28:22 2019-08-01 21:28:22,324 [main] INFO  org.isb.training.selenium.Automation  - desTestSteps:Close Browser
+2019-08-01 21:28:22 2019-08-01 21:28:22,325 [main] INFO  org.isb.training.selenium.Automation  - xpathTestSteps:
+2019-08-01 21:28:22 2019-08-01 21:28:22,327 [main] INFO  org.isb.training.selenium.Automation  - value:
+2019-08-01 21:28:22 2019-08-01 21:28:22,327 [main] INFO  org.isb.training.selenium.Automation  - keywordTestSteps:CloseBrowser
+2019-08-01 21:28:22 2019-08-01 21:28:22,327 [main] INFO  org.isb.training.selenium.Automation  - Executing PerformAction method with the 3 arguments - {} {} {} CloseBrowser  
+2019-08-01 21:28:22 2019-08-01 21:28:22,936 [main] INFO  org.isb.training.selenium.CommonFunctionsLib  - Browser is closed sucessfully
+2019-08-01 21:28:22 2019-08-01 21:28:22,937 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:2
+2019-08-01 21:28:22 2019-08-01 21:28:22,937 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:UserRegistrationTestCases
+2019-08-01 21:28:22 2019-08-01 21:28:22,937 [main] INFO  org.isb.training.selenium.Automation  - TestSuite:N
