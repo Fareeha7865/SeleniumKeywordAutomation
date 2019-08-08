@@ -41,14 +41,15 @@ public class LoadTest2 {
     public void afterClass() {
         driver.quit();
     }
-    
+      
     @Test
 	public void abc() throws FileNotFoundException, IOException, BiffException, NumberFormatException, InterruptedException {
-
+        //Creating class objects
 		Driver d = new Driver();
 		ExcelSheetDriver excelSheetDriver = new ExcelSheetDriver();
 		ExcelSheetDriver excelSheetDriver1 = new ExcelSheetDriver();
 		ExcelSheetDriver excelSheetDriver2 = new ExcelSheetDriver();
+		
 		Sheet testSuitesheet = excelSheetDriver.getWorksheet("./TestCases/TestSuite.xls", "Sheet1");
 		// WebDriver driver = d.InitateDriver();
 
